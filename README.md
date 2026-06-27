@@ -15,12 +15,6 @@ This MATLAB project visualizes and compares the frequency-domain characteristics
 - MATLAB
 - Signal Processing Toolbox
 
-## Project Structure
-
-Matlab Code/
-├── Window_DSP.m
-├── fir_filter_design.m
-└── frequency_response.m
 
 ## How to Run
 
